@@ -1,0 +1,1 @@
+count-uniq-commands.exe main.txt data/gta3.json > gta3_stat.txt
